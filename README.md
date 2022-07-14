@@ -1,0 +1,2 @@
+# Project-Browser-Based-TensorFlow---Transfer-Learning
+Pembelajaran transfer melibatkan pengetahuan yang telah dipelajari untuk membantu mempelajari hal yang berbeda namun serupa. Model ini mempelajari cara mengekstrak fitur umum yang penting untuk semua 1.000 objek tersebut, dan banyak fitur tingkat lebih rendah yang digunakannya untuk mengidentifikasi objek tersebut dapat berguna untuk mendeteksi objek baru yang belum pernah dilihat sebelumnya. Lagi pula, semuanya hanya merupakan kombinasi garis, tekstur, dan bentuk.
